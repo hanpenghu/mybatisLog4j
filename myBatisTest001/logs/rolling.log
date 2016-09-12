@@ -1,0 +1,16 @@
+09-12-2016 ERROR a.TestMybatis001 [main] null
+java.lang.NullPointerException
+	at a002TestMybatisByManual.TestMybatis001.f(TestMybatis001.java:31) [bin/:?]
+	at a002TestMybatisByManual.TestMybatis001.main(TestMybatis001.java:35) [bin/:?]
+09-12-2016 ERROR a.TestMybatis001 [main] null
+java.lang.NullPointerException
+	at a002TestMybatisByManual.TestMybatis001.f(TestMybatis001.java:31) [bin/:?]
+	at a002TestMybatisByManual.TestMybatis001.main(TestMybatis001.java:35) [bin/:?]
+09-12-2016 ERROR a.TestMybatis001 [main] null
+java.lang.NullPointerException
+	at a002TestMybatisByManual.TestMybatis001.f(TestMybatis001.java:31) [bin/:?]
+	at a002TestMybatisByManual.TestMybatis001.main(TestMybatis001.java:35) [bin/:?]
+09-12-2016 ERROR a.TestMybatis001 [main] null
+java.lang.NullPointerException
+	at a002TestMybatisByManual.TestMybatis001.f(TestMybatis001.java:31) [bin/:?]
+	at a002TestMybatisByManual.TestMybatis001.main(TestMybatis001.java:35) [bin/:?]
